@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\HTML"
+		},
+		{
+			"path": "..\\..\\HTML\\someNews"
+		},
+		{
+			"path": "..\\..\\Android Flutter"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"MIDDLE.C": "cpp",
+			"BINARY.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
